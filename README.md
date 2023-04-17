@@ -10,14 +10,14 @@ In this project you will find a file in the resource folder called RawData.txt. 
 
 Just like Json , JerkSON is supposed to be a Key Value Pair data store.
 
-In Json Key and Value are seperated as such (Key:Value) where the colon is the seperator.
+In Json Key and Value are separated as such (Key:Value) where the colon is the separator.
 
-In JerkSON Key and Value could be seperated by using a any of the following (:, @, ^, *, %) and there is no guarntee that there isn't another hidden symbol seperator. (There could be another one, or maybe there isn't , you tell me)... lol
+In JerkSON Key and Value could be separated by using any of the following (:, @, ^, *, %) and there is no guarantee that there isn't another hidden symbol seperator. (There could be another one, or maybe there isn't , you tell me)... lol
 
-In Json Key and Value pairs are seperated by a ',' in JerkSON its '##'
+In Json Key and Value pairs are separated by a ',' in JerkSON its '##'
 
 ## Your Task
-Its your job to build a JerkSON data parser, that is able to read in the raw data , and output a string formated list that resembles (outputFormat.txt) 
+Its your job to build a JerkSON data parser, that is able to read in the raw data , and output a string formatted list that resembles (outputFormat.txt) 
 
 There are some things to look out for.... If you haven't figured it out by now Tariq has many wonderful qualities, spelling isn't one of them, so Words may not be spelled correctly. You need to decipher what Tariq was trying to spell using pattern matching.
 
@@ -32,7 +32,7 @@ You must use regex to detect the patterns and match them.
 
 Oh one more thing.... Tariq is kind of petty... so you can blame STELLA and JOCELYN for this.
 
-Its not guranteed that every Key will have a Value, and every Value will have a pair. For instance:
+It's not guaranteed that every Key will have a Value, and every Value will have a pair. For instance:
 
 you may see something like this
 
@@ -47,5 +47,5 @@ You will need to handle your exceptions!
 I also expect you to report on how many exceptions you saw while parsing the data.
 
 
-GOOD LUCK ZIPCODERS!!!! My the Odds be ever in your favor!!!!
+GOOD LUCK ZIPCODERS!!!! May the Odds be ever in your favor!!!!
 
